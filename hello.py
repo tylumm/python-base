@@ -8,7 +8,7 @@ Como usar:
 
 Tenha a variável LANG devidamente configurada ex:
 
-    export LANG=pt_BR
+    $LANG='pt_BR.utf8'
 
 Execução:
 
